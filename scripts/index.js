@@ -7,7 +7,7 @@ const birthdayVideo = document.getElementById('birthdayVideo');
 
 const config = {
   birthdate: 'May 29, 2023',
-  name: 'Nguyễn Thị Phương Thanh\n29/05/2002'
+  name: 'Phương Thanh'
 };
 
 function hideEverything() {
